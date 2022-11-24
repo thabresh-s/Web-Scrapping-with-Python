@@ -13,7 +13,7 @@ Write the code
 Run the code and extract the data
 Store the data in the required format 
 
-![image](https://user-images.githubusercontent.com/31488753/203765571-783b0d2d-40ff-4c45-8c9c-67ccee047b64.png)
+<img src="https://miro.medium.com/max/721/1*xIH77_Q6W6v2ZA6tf9hrDQ.png" width="300" height="200" />
 
 ***Web Scrapping - Using python libraries***
 
