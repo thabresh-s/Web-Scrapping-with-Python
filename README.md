@@ -1,6 +1,6 @@
 # Web-Scrapping-with-Python
 
-![image](https://user-images.githubusercontent.com/31488753/203765348-c880fd7e-cd51-477f-9592-27a6a85474c7.png)
+![image](https://user-images.githubusercontent.com/31488753/203765348-c880fd7e-cd51-477f-9592-27a6a85474c7.png | width=100)
 
 Web scraping is an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form.
 
