@@ -27,11 +27,25 @@ As we know, Python is has various applications and there are different libraries
 
 ### **Tools for scrape the web**
 
+![image](https://user-images.githubusercontent.com/31488753/204025461-5adeeb49-cb35-4a35-9027-220f6c2d148c.png)
+
+
 **BeautifulSoup**
+
 BeautifulSoup is another Python library, commonly used to parse data from XML and HTML documents. Organizing this parsed content into more accessible trees, BeautifulSoup makes navigating and searching through large swathes of data much easier. It’s the go-to tool for many data analysts.
 
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
 **Scrapy**
+
 Scrapy is a Python-based application framework that crawls and extracts structured data from the web. It’s commonly used for data mining, information processing, and for archiving historical content. As well as web scraping (which it was specifically designed for) it can be used as a general-purpose web crawler, or to extract data through APIs.
 
+https://scrapy.org/
+
 **Pandas**
+
 Pandas is another multi-purpose Python library used for data manipulation and indexing. It can be used to scrape the web in conjunction with BeautifulSoup. The main benefit of using pandas is that analysts can carry out the entire data analytics process using one language (avoiding the need to switch to other languages, such as R).
+
+https://pandas.pydata.org/
+
