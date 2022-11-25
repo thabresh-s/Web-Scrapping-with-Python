@@ -27,8 +27,7 @@ As we know, Python is has various applications and there are different libraries
 
 ### **Tools for scrape the web**
 
-![image](https://user-images.githubusercontent.com/31488753/204025461-5adeeb49-cb35-4a35-9027-220f6c2d148c.png)
-
+<img src="https://images.prismic.io/oxylabs-sm/MzcyYWRmNzYtNTNiNS00NTFhLWFkYzAtMmI3ZDY5NWNmNmNl_oxylabs-images-01.png" width=600 height=250/>
 
 **BeautifulSoup**
 
