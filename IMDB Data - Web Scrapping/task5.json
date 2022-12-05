@@ -1,0 +1,124 @@
+[
+        {
+                "name": "Rocketry: The Nambi Effect",
+                "director": "Madhavan",
+                "image": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",
+                "description": "Based on the life of Indian Space Research Organization scientist Nambi Narayanan, who was framed for being a spy and arrested in 1994. Though free, he continues to fight for justice against the officials who falsely implicated him.",
+                "language": "English",
+                "genre": [
+                        "Biography",
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Anbe Sivam",
+                "director": "Sundar C.",
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcwNDQ5MTctYzZmYS00ZjNmLWE3ZWUtMjZlMGM2NzhmNzAxXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+                "description": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+                "language": "English",
+                "genre": [
+                        "Adventure",
+                        "Comedy",
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Nayakan",
+                "director": "Mani Ratnam",
+                "image": "https://m.media-amazon.com/images/M/MV5BNDViYzdlZjMtNTA2NS00MThhLWEwYTktNTE0OGZlNjJiZDJlXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+                "description": "A common man&apos;s struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+                "language": "English",
+                "genre": [
+                        "Crime",
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Golmaal",
+                "director": "Hrishikesh Mukherjee",
+                "image": "https://m.media-amazon.com/images/M/MV5BM2Y3Y2Q5ZDMtZjk4ZC00ODAwLTkwMDMtMjE4NWU2MmEzMWU2XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+                "description": "A man&apos;s simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+                "language": "English",
+                "genre": [
+                        "Comedy",
+                        "Romance"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Jai Bhim",
+                "director": "T.J. Gnanavel",
+                "image": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+                "description": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+                "language": "English",
+                "genre": [
+                        "Crime",
+                        "Drama",
+                        "Mystery"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "777 Charlie",
+                "director": "Kiranraj K",
+                "image": "https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",
+                "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie enters his life and gives him a new perspective towards it.",
+                "language": "English",
+                "genre": [
+                        "Adventure",
+                        "Comedy",
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Pariyerum Perumal",
+                "director": "Mari Selvaraj",
+                "image": "https://m.media-amazon.com/images/M/MV5BMGYyOTdhMWEtMjdkNi00ZWJhLTkwYTUtODI0M2E4NjIzMTkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+                "description": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+                "language": "English",
+                "genre": [
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "3 Idiots",
+                "director": "Rajkumar Hirani",
+                "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+                "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them &quot;idiots&quot;.",
+                "language": "English",
+                "genre": [
+                        "Comedy",
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Apur Sansar",
+                "director": "Satyajit Ray",
+                "image": "https://m.media-amazon.com/images/M/MV5BN2ZhM2NkZDUtMTI3OC00NWE5LWEwYzMtZTlhMjhkZGFlMjQyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+                "description": "This final installment in Satyajit Ray&apos;s Apu Trilogy follows Apu&apos;s life as an orphaned adult aspiring to be a writer.",
+                "language": "English",
+                "genre": [
+                        "Drama"
+                ],
+                "country": "india"
+        },
+        {
+                "name": "Manichitrathazhu",
+                "director": "Fazil",
+                "image": "https://m.media-amazon.com/images/M/MV5BZjQxMmE4NDMtZGVkYi00YmQyLThiNTMtOTVmNDEyZWQ2MzUwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+                "description": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed.",
+                "language": "English",
+                "genre": [
+                        "Comedy",
+                        "Horror",
+                        "Mystery"
+                ],
+                "country": "india"
+        }
+]

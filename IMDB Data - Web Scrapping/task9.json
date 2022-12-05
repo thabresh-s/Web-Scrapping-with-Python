@@ -1,0 +1,103 @@
+{
+          "@context": "https://schema.org",
+          "@type": "Movie",
+          "url": "/title/tt0066763/",
+          "name": "Anand",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+          "description": "The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",
+          "review": {
+                    "@type": "Review",
+                    "itemReviewed": {
+                              "@type": "CreativeWork",
+                              "url": "/title/tt0066763/"
+                    },
+                    "author": {
+                              "@type": "Person",
+                              "name": "ankur-ab"
+                    },
+                    "dateCreated": "2004-10-31",
+                    "inLanguage": "English",
+                    "name": "A very touching movie.",
+                    "reviewBody": "Excellent performances by Rajesh Khanna and Amitabh Bachchan. Both showed maturity and depth in their role. This movie is about a person (rajesh Khanna) who is dying of a dreaded disease but lives every moment of his life to fullest. He entertains others and brings happiness to their life. On the contrary, Amitabh Bachchan is young doctor who is frustrated and angry. Rajesh khanna befriends him and both go well with each other. Amitabh tries hard to cure Rajesh Khanna but in vain. Ultimately Rajesh khanna leaves not before leaving a message of love and happiness. Amitabh Bachchan was at his best. This was the first movie when he was seriously noticed by Bollywood. He exceed expectations. A versatile actor this is one of his many movies where he plays a role of serious, angry young man who hardly smiles. Though it was primarily Rajesh Khanna&apos;s movie but it catapulted Amitabh Bachchan into fame ultimately replacing Rajesh Khanna as numero uno. A must watchable for Rajesh Khanna and Amitabh fans.",
+                    "reviewRating": {
+                              "@type": "Rating",
+                              "worstRating": 1,
+                              "bestRating": 10,
+                              "ratingValue": 10
+                    }
+          },
+          "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingCount": 33898,
+                    "bestRating": 10,
+                    "worstRating": 1,
+                    "ratingValue": 8.1
+          },
+          "contentRating": "U",
+          "genre": [
+                    "Drama",
+                    "Musical"
+          ],
+          "datePublished": "1971-03-12",
+          "keywords": "doctor,terminal illness,joy of life,character name as title,forename as title",
+          "trailer": {
+                    "@type": "VideoObject",
+                    "name": "Anand trailer",
+                    "embedUrl": "https://www.imdb.com/video/imdb/vi3002710809",
+                    "thumbnail": {
+                              "@type": "ImageObject",
+                              "contentUrl": "https://m.media-amazon.com/images/M/MV5BODU1ZDYyYjAtNWQwZS00M2Y1LThhZDYtOTlmMmFlOWZlMTBmXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+                    },
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODU1ZDYyYjAtNWQwZS00M2Y1LThhZDYtOTlmMmFlOWZlMTBmXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+                    "url": "https://www.imdb.com/video/vi3002710809/",
+                    "description": "The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.",
+                    "duration": "PT1M28S",
+                    "uploadDate": "2018-06-22T11:05:34Z"
+          },
+          "actor": [
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0004435/",
+                              "name": "Rajesh Khanna"
+                    },
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0000821/",
+                              "name": "Amitabh Bachchan"
+                    },
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0764407/",
+                              "name": "Sumita Sanyal"
+                    }
+          ],
+          "director": [
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0611531/",
+                              "name": "Hrishikesh Mukherjee"
+                    }
+          ],
+          "creator": [
+                    {
+                              "@type": "Organization",
+                              "url": "/company/co0044508/"
+                    },
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0611531/",
+                              "name": "Hrishikesh Mukherjee"
+                    },
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0347899/",
+                              "name": "Gulzar"
+                    },
+                    {
+                              "@type": "Person",
+                              "url": "/name/nm0611520/",
+                              "name": "D.N. Mukherjee"
+                    }
+          ],
+          "duration": "PT2H2M"
+}

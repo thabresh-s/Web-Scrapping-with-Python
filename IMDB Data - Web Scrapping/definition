@@ -1,0 +1,40 @@
+Web-scarping:Web scraping is the process of collecting and parsing raw data from the Web.
+
+Why we use:Web scraping is used to collect large information from websites.
+Price Comparison:
+Email address gathering:
+Social Media Scraping:
+Research and Development: 
+Job listings:
+
+Why is Python Good for Web Scraping?
+Ease of Use:
+Large Collection of Libraries: 
+Dynamically typed: 
+Easily Understandable Syntax: 
+Small code,large task:
+Community:
+
+How Do You Scrape Data From A Website?
+To extract data using web scraping with python, you need to follow these basic steps:
+Find the URL that you want to scrape
+Inspecting the Page
+Find the data you want to extract
+Write the code
+Run the code and extract the data
+Store the data in the required format.
+
+Libraries used for Web Scraping:
+Selenium:  Selenium is a web testing library. It is used to automate browser activities.
+BeautifulSoup: Beautiful Soup is a Python package for parsing HTML and XML documents.It creates parse trees that is helpful to extract the data easily.
+Pandas: Pandas is a library used for data manipulation and analysis. It is used to extract the data and store it in the desired format.
+
+Beautiful Soup:Beautiful Soup is a Python library that is used for web scraping purposes to pull the data out of HTML and XML files.
+
+XML stands for eXtensible Markup Language. It was designed to store and transport small to medium amounts of data and is widely used for sharing structured information.
+
+The parser module provides an interface to Python's internal parser and byte-code compiler. The primary purpose for this interface is to allow Python code to edit the parse tree of a Python expression and create executable code from this.
+
+span() method returns a tuple containing starting and ending index of the matched string. If group did not contribute to the match it returns(-1,-1). Parameters: group (optional) By default this is 0.
+
+<strong>: The Strong Importance element. The <strong> HTML element indicates that its contents have strong importance, seriousness, or urgency. Browsers typically render the contents in bold type
